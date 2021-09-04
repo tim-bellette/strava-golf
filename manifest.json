@@ -13,6 +13,7 @@
     ],
     "icons": {
         "50": "images/golf50.png",
-        "100": "images/golf100.png"
+        "100": "images/golf100.png",
+        "128": "images/golf128.png"
     }
 }
