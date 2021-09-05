@@ -7,6 +7,10 @@ While Strava supports golf activities, the only way to add a golf activity is to
 
 This extension auto injects a Golf activity into the dropdown list of activity types on the Strava activity edit page. Suppose the activity that you are currently editing is already a golf activity. In that case, the extension will select the Golf activity for you.
 
+## Installation
+
+Get [Strava Golf](https://chrome.google.com/webstore/detail/strava-golf/miapificdlbegddpaadhnniggaomcnim) from the Chrome Web Store.
+
 ## Images
 
 
